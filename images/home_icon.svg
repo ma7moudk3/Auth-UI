@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="46.692" viewBox="0 0 48 46.692">
+  <defs>
+    <filter id="home_icon" x="0" y="0" width="48" height="46.692" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#313131" flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#home_icon)">
+    <path id="home_icon-2" data-name="home_icon" d="M62,1268.7a1.3,1.3,0,0,0-.818.326l-7.568,7.591a2.1,2.1,0,0,0-.614,1.469v6.081a1.229,1.229,0,0,0,1.227,1.224h4.909a1.229,1.229,0,0,0,1.227-1.224v-3.673a1.636,1.636,0,0,1,3.273,0v3.673a1.229,1.229,0,0,0,1.227,1.224h4.909A1.229,1.229,0,0,0,71,1284.168v-6.081a2.07,2.07,0,0,0-.614-1.469l-7.568-7.55A1.158,1.158,0,0,0,62,1268.7" transform="translate(-38 -1253.7)" fill="#333"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="25.463" viewBox="0 0 20 25.463">
+  <defs>
+    <linearGradient id="linear-gradient" y1="1.231" x2="0.697" y2="0.17" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e70f2f"/>
+      <stop offset="1" stop-color="#f72f35"/>
+    </linearGradient>
+  </defs>
+  <g id="favorite_icon" transform="translate(-249.895 -767.897)">
+    <g id="Icon_Favorite_Rounded" data-name="Icon / Favorite / Rounded" transform="translate(249.895 767.897)" opacity="0.5">
+      <rect id="Box" width="20" height="20" transform="translate(0 0)" fill="none"/>
+      <path id="Path_2018" data-name="Path 2018" d="M249.3,62.925a1.664,1.664,0,0,1-2.227,0l-.082-.081c-4.29-3.909-7.177-6.433-7.095-9.527a4.581,4.581,0,0,1,1.9-3.5,4.843,4.843,0,0,1,6.352.9,4.828,4.828,0,0,1,6.352-.9,4.349,4.349,0,0,1,1.9,3.5c.083,3.176-2.722,5.7-7.094,9.609Z" transform="translate(-238.213 -46.343)" fill="none" stroke="#535353" stroke-width="2"/>
+    </g>
+    <ellipse id="Ellipse_35" data-name="Ellipse 35" cx="2.664" cy="2.658" rx="2.664" ry="2.658" transform="translate(256.887 788.045)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
